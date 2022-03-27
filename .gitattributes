@@ -1,0 +1,6 @@
+models/pretrain/Duet_N1_M1.pth filter=lfs diff=lfs merge=lfs -text
+models/pretrain/Duet_N1_M2.pth filter=lfs diff=lfs merge=lfs -text
+models/pretrain/Duet_N1_M3.pth filter=lfs diff=lfs merge=lfs -text
+models/pretrain/Duet_N1_M4.pth filter=lfs diff=lfs merge=lfs -text
+models/pretrain/Duet_N1_M5.pth filter=lfs diff=lfs merge=lfs -text
+example/feature/3TT9A/3TT9A_features_m1.npz filter=lfs diff=lfs merge=lfs -text
